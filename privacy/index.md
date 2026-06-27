@@ -1,41 +1,56 @@
----
-title: Privacy Policy — Loop
-description: Privacy policy for the Loop puzzle game by Cenith Innovations.
----
+# Privacy Policy for Loop
 
-# Privacy Policy — Loop
+_Last updated: June 27, 2026_
 
-_Last updated: 27 June 2026_
+Loop ("the app") is a single-player logic puzzle game. This policy explains how
+the app handles your information. In short: **the app does not collect, transmit,
+or share any personal data.**
 
-Loop ("the app") is a single-player puzzle game published by Cenith Innovations.
-Your privacy matters, and this policy explains — in plain terms — what the app does
-and does not do with your information.
+## Information we collect
 
-## Summary
+**None.** Loop does not collect, store, or transmit any personal or identifying
+information. It has no user accounts, no sign-in, and requests no device
+permissions.
 
-**Loop does not collect, store, transmit, or share any personal data.**
+## Network access
 
-## Details
+The app requests **no internet permission** and does not connect to the
+internet. It works entirely offline, and no data is sent off your device to us
+or to anyone else.
 
-- **No data collection.** The app does not gather any personally identifiable
-  information, contact details, location, device identifiers, or usage analytics.
-- **No network access.** The app does not request the Internet permission and makes
-  no network connections. Nothing leaves your device.
-- **No permissions.** The app requests no Android runtime or install-time permissions.
-- **No advertising or third-party SDKs.** There are no ads, no trackers, and no
-  analytics or crash-reporting services.
-- **Local game data only.** Your current puzzle and your settings (grid size,
-  difficulty, seed, and play mode) are saved only in the app's private storage on
-  your device. This data never leaves the device and is removed when you uninstall
-  the app.
-- **Children.** Because the app collects no data at all, it is suitable for all ages.
+## Data stored on your device
+
+To make the game playable, the app saves the following **only on your device**:
+
+- Your game settings and preferences (grid size, difficulty, seed, and play mode).
+- The current/in-progress puzzle state.
+
+This information stays in the app's private storage on your device. It is used
+solely to run the game and is removed if you clear the app's data or uninstall
+the app.
+
+If you have Android's system backup enabled, your device may include this local
+game data in your own device backup (managed by Android and your Google account,
+under your control). This backup is a feature of your device and operating
+system, not something the app performs or has access to.
+
+## Third-party services
+
+The app contains **no advertising, no analytics, and no third-party tracking or
+data-collection SDKs.**
+
+## Children's privacy
+
+The app is suitable for all ages. Because it collects no personal information
+from anyone, it collects no personal information from children.
 
 ## Changes to this policy
 
-If this policy ever changes, the updated version will be posted at this page and the
-"Last updated" date above will be revised.
+If this policy changes, the updated version will be posted at this page with a
+new "Last updated" date.
 
 ## Contact
 
-Questions about this policy can be sent to:
-[colin@cenithinnovations.com](mailto:colin@cenithinnovations.com)
+If you have any questions about this privacy policy, contact:
+
+**Colin Blackett** — apps@melncoly.com
